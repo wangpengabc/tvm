@@ -455,6 +455,7 @@ MICRO_SUPPORTED_MODELS = {
     "stm32l4r5zi": ["-mcpu=cortex-m4"],
     "stm32u5xx": ["-mcpu=cortex-m33"],
     "zynq_mp_r5": ["-mcpu=cortex-r5"],
+    "uTVM_stm32h743zi": ["-mcpu=cortex-m7"],
 }
 
 
