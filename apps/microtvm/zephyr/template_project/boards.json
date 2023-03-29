@@ -99,8 +99,8 @@
         "vid_hex": "0483",
         "pid_hex": "374b"
     },
-    "stm32h743zi_nucelo": {
-        "board": "stm32h743zi_nucelo",
+    "nucleo_h743zi": {
+        "board": "nucleo_h743zi",
         "model": "x",
         "is_qemu": false,
         "fpu": true,
