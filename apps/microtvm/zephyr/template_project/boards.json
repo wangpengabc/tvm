@@ -104,7 +104,7 @@
         "model": "x",
         "is_qemu": false,
         "fpu": true,
-        "vid_hex": "x",
-        "pid_hex": "x"
+        "vid_hex": "0483",
+        "pid_hex": "374E"
     }
 }
